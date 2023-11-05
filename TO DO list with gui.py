@@ -1,5 +1,5 @@
 '''
-Application developed by Mohammed Javeed
+Application developed by Mohammed Fudail
 To-Do list managing application develped in Python
 GUI built using tkinter and ttkbootstrap
 Uses tkinter.messagebox for displaying messages
